@@ -1,0 +1,82 @@
+{
+    "slidelist": [
+      {
+        "url": "/images/slider-2.jpg",
+        "title": "Yüksek Kalite, Güvenli İnşaatlar",
+        "description": "2005 yılından bu yana, Akdulum Kum Ocağı ve Akdulum Çimento ile projelerinizi sağlam temeller üzerine inşa edin. Kaliteli kum ve çimento ürünleri ile her zaman yanınızdayız!"
+      },
+      {
+        "url": "/images/image5.jpeg",
+        "title": "Geniş Araç Parkı, Zamanında Teslimat",
+        "description": "Akdulum Kum Ocağı, her büyüklükteki projeye hızlı ve güvenli malzeme teslimatı yapıyor. Yüksek üretim kapasitesi ile ihtiyacınız olan her şey bir telefon kadar yakın."
+      },
+      {
+        "url": "/images/image1.jpeg",
+        "title": "İnşaatın Temeli: Kaliteli Malzeme",
+        "description": "Şap kumu, sıva kumu, mucur çeşitleri ile her projeye özel çözüm. Akdulum Kum Ocağı'nın sağlam ve dayanıklı malzemeleriyle projelerinizi güvenle tamamlayın."
+      },
+      {
+        "url": "/images/slider-1.jpg",
+        "title": "2005'ten Bugüne Güvenilir Çözüm Ortağınız",
+        "description": "Akdulum Kum Ocağı'nın 18 yıllık deneyimi ve yüksek kalite standartları ile inşaat projelerinize sağlam bir adım atın."
+      }
+    ],
+    
+    "services": [
+      {
+        "title": "Akdulum Kum Ocağı",
+        "content": "Akdulum Kum Ocağı ve Çimento, yerel ve ulusal ölçekteki tüm inşaat projeleriniz için ihtiyacınız olan malzeme tedarikini en hızlı ve güvenilir şekilde sunmayı amaçlamaktadır. Faaliyet gösterdiğimiz bu sektörde, inşaat projelerinizin başarısını desteklemek ve daha sağlam, dayanıklı yapılar inşa etmenize katkı sağlamak için geniş ürün yelpazemiz ve güçlü altyapımızla yanınızdayız."
+      },
+      {
+        "title": "Geniş araç parkımız",
+        "content": "Akdulum Kum Ocağı ve Çimento olarak, inşaat sektörünün gereksinimlerini yakından takip ediyor ve her geçen gün hizmet kalitemizi daha da ileri taşıyoruz. Yerel ya da ulusal ölçekte, büyük ya da küçük ölçekli fark etmeksizin her türlü inşaat projenize yönelik kapsamlı çözümler sunmaktayız. İster bireysel bir inşaat girişiminde bulunun, isterse devasa bir altyapı veya ticari proje yürütüyor olun, Akdulum olarak size gerekli tüm malzeme ve lojistik desteğini sağlamak için buradayız. Geniş ürün yelpazemiz, her türlü kum ve çimento ihtiyacınıza yönelik çözümler sunarken, uzman ekibimiz de size projenizin her aşamasında danışmanlık ve teknik destek sağlamaktadır. Malzeme tedarikinin yanı sıra, projenizi en verimli şekilde yürütmenizi kolaylaştıracak çözüm ortaklığı sunuyoruz."
+      },
+      {
+        "title": "Yüksek Performans, Yüksek Verimlilik",
+        "content": "Akdulum Kum Ocağı’nın sektördeki güçlü konumu, yalnızca ürün kalitesine değil, aynı zamanda yüksek verimli ve kesintisiz üretim süreçlerine dayanmaktadır. Geniş araç parkımız ile üretimden teslimata kadar her aşamayı hızlı ve güvenli bir şekilde gerçekleştiriyoruz. Zamanında teslimat, projelerinizin aksamadan ilerlemesini sağlarken, yüksek üretim kapasitemiz de büyük projelerde bile malzeme temininde hiçbir sıkıntı yaşamanıza olanak tanır."
+      },
+      {
+        "title": "Sizlere Özel Hizmet ve Kolaylık",
+        "content": "Firmamız, müşteri memnuniyetini her zaman en üst seviyede tutmaktadır. Bu anlayışla, sadece kaliteli malzeme temini değil, aynı zamanda nakliye ve lojistik hizmetlerimizi de geniş araç parkımızla hızlı ve güvenli bir şekilde gerçekleştiriyoruz. İnşaat projelerinizde ihtiyaç duyduğunuz malzemeyi zamanında ve doğru miktarda temin etmek, işlerinizi kolaylaştırır ve verimliliği arttırır."
+      }
+    ],
+
+    "products": [
+      {
+        "img":"/images/sap-kum.jpg",
+        "title": "Şap Kumu",
+        "desc": "Şap uygulamalarında kullanılan bu kum, yüzeylerin düzgün ve pürüzsüz olmasını sağlar. Dayanıklı ve kaliteli malzemesi sayesinde şapın uzun yıllar boyunca sağlam kalmasını garanti eder. "
+      },
+      {
+        "img":"/images/sıva-kum.jpg",
+        "title": "Sıva Kumu",
+        "desc": "İnşaat sıvasının dayanıklılığını arttırmak, daha düzgün ve estetik yüzeyler elde etmek için kullanılan sıva kumu, projelerinizin profesyonel bir şekilde tamamlanmasına katkı sağlar. Yüksek kaliteli sıva kumu, nemin etkilerini azaltarak uzun vadeli güvenlik sağlar."
+      },
+      {
+        "img":"/images/mucur.jpg",
+        "title": "Mucur Çeşitleri",
+        "desc": "Yapıların temelleri ve duvarları için kritik bir malzeme olan mucur, sağlamlık ve dayanıklılık açısından inşaatın temel taşlarından biridir. Akdulum Kum Ocağı, çeşitli mucur türleri ile her türlü inşaat projesine uygun çözümler sunmaktadır."
+      }
+    ],
+
+    "procurement": [
+      {
+        "img":"https://cf.specifyconcrete.org/img/pouring-concrete-over-rebar.jpg",
+        "title": "Yüksek Üretim Kapasitesi",
+        "desc": "2005'ten bu yana, her türlü projeye uygun kaliteli kum ve çimento üretim kapasitemizle hizmetinizdeyiz."
+      },
+      {
+        "img":"/images/image4.jpeg",
+        "title": "Hızlı Teslimat",
+        "desc": "Geniş araç filomuzla, malzemenizi zamanında ve güvenli bir şekilde teslim ediyoruz."
+      },
+      {
+        "img":"https://avatars.mds.yandex.net/get-altay/2389272/2a0000017496c62aec3c73a7b8427db9982b/diploma",
+        "title": "Kaliteli Malzemeler",
+        "desc": "Şap kumu, sıva kumu, mucur gibi dayanıklı ve güvenilir malzemelerle projelerinizi güçlendiriyoruz."
+      }
+    ]
+
+
+  }
+  

@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /admin
+
+# Host
+Host: https://akdulumkumocagi.com
+
+# Sitemaps
+Sitemap: https://akdulumkumocagi.com/sitemap.xml

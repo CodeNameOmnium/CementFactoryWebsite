@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* * {
+  animation: rotate 1s ease-in-out;
+} */
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(100%);
+    /* Start from below the viewport */
+    opacity: 0;
+    /* Start fully transparent */
+  }
+
+  100% {
+    transform: translateY(0);
+    /* End at its original position */
+    opacity: 1;
+    /* End fully opaque */
+  }
+}
+
+@keyframes slideDown {
+  0% {
+    transform: translateY(-100%);
+    /* Start from below the viewport */
+    opacity: 0;
+    /* Start fully transparent */
+  }
+
+  100% {
+    transform: translateY(0);
+    /* End at its original position */
+    opacity: 1;
+    /* End fully opaque */
+  }
+}
+
+@keyframes slideRight {
+  0% {
+    transform: translateX(100%);
+    /* Start from below the viewport */
+    opacity: 0;
+    /* Start fully transparent */
+  }
+
+  100% {
+    transform: translateX(0);
+    /* End at its original position */
+    opacity: 1;
+    /* End fully opaque */
+  }
+}
+
+@keyframes slideLeft {
+  0% {
+    transform: translateX(-100%);
+    /* Start from below the viewport */
+    opacity: 0;
+    /* Start fully transparent */
+  }
+
+  100% {
+    transform: translateX(0);
+    /* End at its original position */
+    opacity: 1;
+    /* End fully opaque */
+  }
+}
+
+@keyframes fadeing {
+  0% {
+    /* Start from below the viewport */
+    opacity: 0;
+    /* Start fully transparent */
+  }
+
+  100% {
+    /* End at its original position */
+    opacity: 1;
+    /* End fully opaque */
+  }
+}
+
+.card.in-view {
+  animation: slideRight 2s ease forwards;
+}
+
+.header.in-view {
+  z-index: 10;
+  animation: fadeing 1s ease forwards;
+}
+
+.logo.in-view {
+  animation: fade 2s ease-in forwards;
+}
+
+.fade.in-view {
+  animation: fadeing 3s ease forwards;
+}
+
+.fade-up.in-view {
+  animation: slideUp 2s ease forwards;
+}
+
+.fade-down.in-view {
+  animation: slideDown 2s ease forwards;
+}
+
+.fade-left.in-view {
+  animation: slideLeft 2s ease forwards;
+}
+
+.fade-right.in-view {
+  animation: slideRight 2s ease forwards;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #0B192C; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #FF6500; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
