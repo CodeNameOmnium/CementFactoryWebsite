@@ -120,7 +120,7 @@ module.exports = {
             overflow: "hidden",
           },
           ".icon-text-1": {
-            width: "120px",
+            width: "130px",
           },
           ".icon-text-2": {
             width: "100px",
