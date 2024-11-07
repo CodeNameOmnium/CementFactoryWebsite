@@ -35,6 +35,12 @@ const Footer = () => {
               (+90) 543 675 00 40
             </Link>
           </div>
+          <div className="w-1/3 mobile:w-full flex flex-row flex-nowrap justify-center items-center gap-3 laptop:gap-2 mobile:justify-center">
+            <FaPhone size={24} className="text-primary" />
+            <Link href={"tel:+905326797202"} className="text-md mobile:text-sm">
+              (+90) 0532 679 72 02
+            </Link>
+          </div>
         </div>
       </div>{" "}
       <div className="text-center text-md mobile:text-sm">
