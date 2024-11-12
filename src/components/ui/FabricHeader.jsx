@@ -28,9 +28,9 @@ const FabricHeader = ({ className }) => {
               className="h-full flex items-center z-10 font-extrabold text-5xl mobile:text-lg
              laptop:text-4xl text-secondary py-2 px-10 text-center flex-col justify-center "
             >
-              Akdulum Kum Ocağı{" "}
+              AKDULUM KUM OCAĞI{" "}
               <span className="text-lg mobile:text-lg text-white tracking-[7px] ">
-                HAZIR BETON ÇİMENTO
+                Hazır Beton Çimento
               </span>
             </h1>
           </Link>
@@ -38,7 +38,7 @@ const FabricHeader = ({ className }) => {
 
         <div className="flex flex-row flex-nowrap justify-between items-center shadow-lg py-2 mobile:flex-col mobile:gap-2 mobile:text-primary">
           <Link
-            href={"tel:+905336474411"}
+            href={"tel:+905326797202 "}
             className="w-1/3 flex flex-row flex-nowrap justify-start items-center gap-3 laptop:gap-2 mobile:fixed-icon mobile:bottom-0 mobile:justify-start"
           >
             <FaPhone
@@ -46,11 +46,11 @@ const FabricHeader = ({ className }) => {
               className="text-primary mobile:w-4 mobile:h-4 icon"
             />
             <span className="text-md mobile:text-xs icon-text icon-text-1">
-              {"(+90) 533 647 42 11"}
+              {"(+90) 532 679 72 02"}
             </span>
           </Link>
           <Link
-            href={"tel:+905326797202"}
+            href={"tel:+905436750040 "}
             className="w-1/3 flex flex-row flex-nowrap justify-start items-center gap-3 laptop:gap-2 mobile:fixed-icon mobile:bottom-[50px] mobile:justify-start"
           >
             <FaPhone
@@ -58,7 +58,7 @@ const FabricHeader = ({ className }) => {
               className="text-primary mobile:w-4 mobile:h-4 icon"
             />
             <span className="text-md mobile:text-xs icon-text icon-text-1">
-              {"(+90) 0532 679 72 02"}
+              {"(+90) 543 675 00 40 "}
             </span>
           </Link>
           <Link
