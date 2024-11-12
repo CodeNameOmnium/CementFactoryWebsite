@@ -25,14 +25,16 @@ const FabricHeader = ({ className }) => {
         <div className=" flex flex-row flex-nowrap justify-center items-center mobile:flex-col">
           <Link href={"/"}>
             <h1
-              className="h-full flex items-center z-10 font-extrabold text-5xl mobile:text-lg
-             laptop:text-4xl text-secondary py-2 px-10 text-center flex-col justify-center "
+              className="h-full flex items-center z-10 font-extrabold text-5xl mobile:text-3xl
+             laptop:text-4xl text-secondary  text-center flex-col justify-center"
             >
               AKDULUM KUM OCAĞI{" "}
-              <span className="text-lg mobile:text-lg text-white tracking-[7px] ">
+             
+            </h1>
+            <span className="text-lg mobile:text-lg text-white tracking-[7px] h-full  py-2 px-10 h-full flex items-center z-10 font-extrabold text-5xl 
+              text-secondary py-2 px-10 text-center flex-col justify-center">
                 Hazır Beton Çimento
               </span>
-            </h1>
           </Link>
         </div>
 
