@@ -6,7 +6,7 @@ const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
  * @returns {Object} - Default SEO metadata
  */
 const DefaultSeo = {
-  title: "Akdulum Kum Ocağı - Adıyaman'ın Güvenilir Kum Tedarikçisi",
+  title: "Akdulum Kum Ocağı Hazır Beton - Adıyaman'ın Güvenilir Kum Tesisi",
   description:
     "Adıyaman'da bulunan Akdulum Kum Ocağı, kaliteli kum ve inşaat malzemeleri ile güvenilir çözümler sunar. Uygun fiyatlarla hizmet almak için bizimle iletişime geçin!",
   openGraphImage: `${BASE_URL}/images/og-image.png`,
