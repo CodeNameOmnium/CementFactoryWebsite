@@ -66,7 +66,7 @@ const App = () => {
             </div>
 
             {/* <div className="w-[300px] h-max bg-[#1E3E62] p-10 mb-8 -ml-32 z-10 text-white">
-              Akdulum Kum Ocağı: Güvenli, Hızlı ve Zamanında Teslimat. Yüksek üretim kapasitemizle her projeye en kaliteli malzemeyi, zamanında ulaştırıyoruz!
+              Akdulum Kum Ocağı: Güvenli, Hızlı ve Zamanında Teslimat. Yüksek Tesis kapasitemizle her projeye en kaliteli malzemeyi, zamanında ulaştırıyoruz!
             </div> */}
           </div>
 
@@ -79,7 +79,7 @@ const App = () => {
                 İnşaat sektörü, doğru malzeme seçimiyle sağlam ve uzun ömürlü
                 yapılar inşa etmenin temelini atar. Bu noktada Akdulum Kum Ocağı
                 ve Akdulum Çimento olarak, 2005 yılından bu yana kaliteli ve
-                yüksek üretim kapasitemizle sektörün güvenilir adresi olmanın
+                yüksek Tesis kapasitemizle sektörün güvenilir adresi olmanın
                 gururunu yaşıyoruz. Akdulum Kum Ocağı ve Akdulum Çimento,
                 inşaatın her aşamasında ihtiyaç duyduğunuz kum ve çimento
                 ürünlerini en yüksek standartlarda sunar. Şap kumu, sıva kumu ve
@@ -104,7 +104,7 @@ const App = () => {
         </div>
       </Section>
 
-      {/* Yüksek Üretim Kapasitesi ve Güvenilirlik */}
+      {/* Yüksek Tesis Kapasitesi ve Güvenilirlik */}
       <Section
         backgroundImage="/images/bg-texture.svg"
         backgroundClassname="w-full absolute left-0 top-0 mix-blend-overlay opacity-20"
@@ -113,17 +113,17 @@ const App = () => {
         <div className="flex py-20 mobile:py-10 container mx-auto gap-16 mobile:gap-4 text-white relative fade-up late-load mobile:flex-col items-center ">
           <div className="w-full text-lg flex-1 items-center">
             <h2 className="text-3xl font-bold mb-3 p  mobile:text-2xl ">
-              Yüksek Üretim Kapasitesi ve Güvenilirlik
+              Yüksek Tesis Kapasitesi ve Güvenilirlik
             </h2>
             <p className="text-md mobile:text-sm  mobile:text-start">
               {" "}
-              2005 yılından itibaren sürekli gelişen altyapımız ve üretim
+              2005 yılından itibaren sürekli gelişen altyapımız ve Tesis
               kapasitemiz ile Akdulum Kum Ocağı olarak inşaat sektörünün
               ihtiyaçlarına tam zamanında ve eksiksiz cevap vermekteyiz.
               Firmamız, sektördeki deneyimi ve müşteri odaklı hizmet anlayışıyla
               güvenilirliğini pekiştirmiştir.Yüksek kalite standartlarımız
               sayesinde, sunduğumuz ürünlerin her biri, projelerinizi daha
-              dayanıklı, uzun ömürlü ve sağlam kılar. Üretim süreçlerimizde
+              dayanıklı, uzun ömürlü ve sağlam kılar. Tesis süreçlerimizde
               kaliteyi ve müşteri memnuniyetini her zaman ön planda tutarak,
               inşaatın her aşamasında en iyi malzeme çözümünü sunuyoruz.
             </p>

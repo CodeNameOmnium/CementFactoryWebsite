@@ -13,7 +13,7 @@ const DefaultSeo = {
   twitterCard: `${BASE_URL}/images/og-image.png`,
   twitterImage: `${BASE_URL}/images/og-image.png`,
   keywords:
-    "Adıyaman kum ocağı, kum tedarikçisi, kaliteli kum, inşaat malzemeleri, kum temini, peyzaj kumları, uygun fiyatlı kum, Adıyaman inşaat malzemeleri, kum üretimi, kum ocakları", // Default keywords
+    "Adıyaman kum ocağı, kum tedarikçisi, kaliteli kum, inşaat malzemeleri, kum temini, peyzaj kumları, uygun fiyatlı kum, Adıyaman inşaat malzemeleri, kum Tesisi, kum ocakları", // Default keywords
   favicon: `${BASE_URL}/images/favicon.png`,
 };
 
